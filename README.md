@@ -10,6 +10,7 @@ All new types are functions inside of the `global` object. They should be called
 For more info look at the section below.
 
 
-The docs for all mods supported by this script are here, on the original github - [docs](https://github.com/gcatkjspkgs/kubejs-more-recipe-types/tree/ad42069a450cd74d42159950bd5e290eb576959f/docs)
+The docs for all mods supported by this script are here, in the docs - [docs](https://github.com/Dangrainage/kubejs6-more-recipe-types/tree/a834a0c1afddad46e4330b9faa96fd8cf9ce6dcb/docs)
+Find the mod, and that's It!
 
 
