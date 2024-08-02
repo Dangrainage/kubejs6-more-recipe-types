@@ -1,5 +1,6 @@
 # kubejs6-more-recipe-types
-Fork of https://github.com/gcatkjspkgs/kubejs-more-recipe-types by gcatkjspkg - all credits go to them!
+Basically a fork of https://github.com/gcatkjspkgs/kubejs-more-recipe-types by gcatkjspkg - all credits go to them!
+I just made It work with KubeJS 6
 
 # QUICK START
 All new types are functions inside of the `global` object. They should be called inside of the `recipes` event like so: `global.mrt.<mod>.<type>(event, {args}, <id>)`.
